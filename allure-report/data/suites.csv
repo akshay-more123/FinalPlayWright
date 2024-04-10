@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Apr 08 15:54:51 IST 2024","Mon Apr 08 15:55:01 IST 2024","9999","","POM.spec.js","","","","login with new user credentials",""
